@@ -1,0 +1,17 @@
+.heading{
+    color: #023341;
+    font-weight: bold;
+   
+}
+.grid-item{
+    border: 1px solid black;
+    height: 130px;
+    width: 130px;
+}
+
+.content{
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+}
+

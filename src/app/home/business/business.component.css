@@ -1,0 +1,128 @@
+.heading {
+    margin-bottom: 90px;
+}
+@media(min-width:576px) {
+.img-business {
+    position: relative;
+
+    width: 560px;
+    height: 324px;
+
+}
+
+.img-business img {
+    position: absolute;
+    z-index: 2;
+    width: 270px;
+    height: 220px;
+}
+
+
+    .business-add-content {
+        position: absolute;
+        right: 0;
+        bottom: 0;
+        height: 179px;
+        border: 1px solid#707070;
+        z-index: 1;
+    }
+
+    .business-services {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+
+    .b {
+        font-size: 12px;
+    }
+
+    .business-add-content {
+        position: absolute;
+        width: 330px;
+        height: 179px;
+        border: 1px solid#707070;
+        bottom: 0px;
+        right: 0px;
+        z-index: 1;
+    }
+
+    .business-add-content-inner {
+        position: absolute;
+        right: 0px;
+        width: 277px;
+        height: 179px;
+    }
+
+    .name {
+        font-size: 19px;
+        color: #023341;
+        font-weight: bold;
+        text-align: left;
+
+    }
+
+    .mail {
+        font-size: 13px;
+
+    }
+
+    .content {
+        font-size: 12px;
+
+    }
+
+    .contact {
+        background-color: #FF5C02;
+        color: #fff;
+        font-size: 18px;
+        font-weight: bold;
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        text-decoration: none;
+        width: 280px;
+
+    }
+
+    .business-company {
+        position: absolute;
+        right: 0px;
+        color: #023341;
+        font-size: 22px;
+        font-weight: bold;
+        top: 80px;
+    }
+}
+@media(max-width:576px) {
+    .img-business{
+        width: 300px;
+        text-align: center;
+        box-shadow: 0px 3px 6px #00000029;
+      
+    }
+    .img-business img{
+        width: 300px;
+        height: 200px;
+    }
+    .contact {
+        background-color: #FF5C02;
+        color: #fff;
+        font-size: 18px;
+        font-weight: bold;
+       
+        text-decoration: none;
+        width: 300px;
+
+    }
+    .business-company {
+       
+        color: #023341;
+        font-size: 22px;
+        font-weight: bold;
+
+    }
+    .heading{
+        text-align: center;
+    }
+}

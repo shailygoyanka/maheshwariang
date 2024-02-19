@@ -1,0 +1,68 @@
+.banner-img{
+    height: 300px;
+
+}
+.recommendation-circle{
+    height: 200px;
+    width: 200px;
+ 
+    
+    }
+.fa-clock , .fa-location-pin {
+    color: #FF5C02;
+}
+.contact{
+    background-color: #FF5C02;
+    color: white;
+}
+.recommendation-img {
+    height: 110px;
+}
+
+.card-title h5{
+    color:#023341,
+}
+.card{
+    box-shadow: 0px 3px 6px #00000029;
+    border: none;
+}
+.card-text{
+    font-size: 13px;
+}
+.fa-brands{
+    color: #FF5C02;
+}
+.headings{
+    color:#023341, 
+}
+
+@media (min-width:991px){
+    .recommendation-circle{
+      position: absolute;
+      top: 190px;
+}
+
+}
+
+@media (max-width:991px){
+    .recommendation-circle{
+        height: 150px;
+        width:150px;
+        position: absolute;
+        top: 220px;
+        
+        
+        }
+        .headings .headings3{
+            text-align: center;
+        }
+        .heading-recommendation{
+            margin-top: 30px;
+        }
+       
+
+}
+
+
+
+

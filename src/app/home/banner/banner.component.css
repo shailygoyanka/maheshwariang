@@ -1,0 +1,51 @@
+ h2{
+    font-size: 55px;
+    font-weight: bold;
+}
+.input-group{
+    border: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    
+}
+input{
+    border:none
+}
+.p-3{
+    background-color: #FF5C02;
+    color: #fff;   
+}
+
+.home-img{
+    height: 500px;
+    width: 180px;
+   
+}
+
+.img-1,.img-3{
+    margin-top: 140px;
+   
+}
+
+
+@media (max-width:992px){
+    .images{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+    .home-img{
+        height: 400px;
+        width: 160px;
+       
+    }
+}
+@media (max-width:575px){
+    .home-img{
+        height: 400px;
+        width: 150px;
+       
+    }
+}
+
+
+

@@ -1,0 +1,47 @@
+.heading{
+    margin-bottom: 90px;
+}
+sup{
+    color: #FF5C02;
+    font-size: 14px;
+    font-weight: bold;
+}
+.company-name{
+    color: #FF5C02;
+    font-weight: 600;
+   
+}
+
+.recommendation-1{
+    box-shadow: 6px 6px 6px #00000029;
+    
+    position: relative;
+    
+}
+.fa-trophy{
+
+    position: absolute;
+    color: #FF5C02;
+    right: -10px;
+    top: -10px;
+    
+}
+.recommendation-2{
+    box-shadow: 6px 6px 6px #00000029;
+    
+    position: relative;
+    
+}
+.fa-star{
+    color: #FF5C02;
+    font-weight: 600;
+}
+.review{
+   font-size: 14px;
+}
+.card{
+    box-shadow: 6px 6px 6px #00000029; 
+    border: none; 
+    width: 480px;
+}
+

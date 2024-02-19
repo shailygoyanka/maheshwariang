@@ -1,0 +1,30 @@
+nav{
+    background-color: white;
+    box-shadow: 0px 3px 6px #00000029;
+}
+.great-vibes{
+    color:#FF5C01;
+    font-family: 'Great Vibes', cursive;
+    font-size: 1.56em;
+}
+.btn{
+    border: 1px solid #000;
+    color: #000;
+    text-transform: capitalize;
+    
+}
+.btn1:hover{
+    background-color:#023341;
+    color: white;
+    border: none;   
+}
+.btn2:hover{
+    background-color:#149A9B;
+    color: white;
+    border: none;   
+}
+.btn3:hover{
+    background-color:#5A3954;
+    color: white;
+    border: none;   
+}

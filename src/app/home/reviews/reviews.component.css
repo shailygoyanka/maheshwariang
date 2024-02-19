@@ -1,0 +1,41 @@
+.heading{
+    margin-bottom: 90px;
+}
+
+.content1{
+   
+    box-shadow: -7px 6px 6px #00000029;
+    border-radius: 70px;
+    box-sizing: border-box;
+    
+}
+.content2{
+   
+    box-shadow: 6px 6px 6px #00000029;
+    border-radius: 70px;
+    box-sizing: border-box;
+    
+   
+}
+.image{  
+    height: 100px;
+    width: 100px;
+    
+    margin-top: -45px;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #023341;
+    
+}
+.line{
+    
+    height: 5px;
+    background-color: #023341;
+    
+}
+h4{
+    color: #023341;
+}

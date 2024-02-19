@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+*{
+    font-family: 'Open Sans', sans-serif;
+    
+}
+h1{
+    color: #023341;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 130px;
+    
+}
+h5{
+    color: #023341;
+    font-weight: bold;
+}
